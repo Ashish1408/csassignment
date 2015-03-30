@@ -1,1 +1,0 @@
-Numerical algorithm cs assignment
